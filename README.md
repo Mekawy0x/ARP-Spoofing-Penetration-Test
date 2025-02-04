@@ -12,10 +12,10 @@ This repository contains a detailed **penetration testing report on ARP spoofing
 - **Nmap**
 
 ## 🛡️ Prevention Techniques
-Use TLS/SSL encryption.
-Enable static ARP tables.
-Use ARP Spoofing Detection Tools.
-Implement packet filtering.
+- Use TLS/SSL encryption.
+- Enable static ARP tables.
+- Use ARP Spoofing Detection Tools.
+- Implement packet filtering.
 
 # ⚠️ Disclaimer
 This repository is intended for educational and ethical hacking purposes only. Unauthorized use of these techniques is illegal. The authors are not responsible for any misuse.
